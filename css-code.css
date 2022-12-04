@@ -1,0 +1,65 @@
+@font-face {
+    font-family: m;
+    src: url(http://43.139.175.183/file/2/SourceCodePro-Black.ttf);
+}
+
+body {
+    background-color: #bed2bb;
+}
+
+h2 {
+    color: #226b68;
+}
+
+h4 {
+    color: #226b68;
+}
+
+p {
+    color: #226b68;
+}
+
+a {
+    color: #84a729;
+}
+
+button {
+    background-color: #92905d;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+code {
+    font-family: m;
+    background-color: #f5f3f2;
+    color: #e18a3b;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #003d74;
+}
+
+div {
+    border-radius: 25px;
+    background-color: #bed2bb;
+    transition: all 2s;
+    -webkit-transition: all 2s;
+ /* Safari */;
+}
+
+div:hover {
+    background-color: #c0d09d;
+}
+
+a {
+    color: #3271ae;
+}
